@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Connor</h1>
 <h3 align="center">a Idiot Korean Developer 😂</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=newconnor&label=Profile%20views&color=0e75b6&style=flat" alt="newconnor" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newconnor" alt="newconnor" /></a> </p>
-
 - 🔭 Current Project : [Anti Tech](https://github.com/NewConnor/anti-tech)
 
 - 🌱 I’m currently learning **Java**
