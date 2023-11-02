@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Connor</h1>
-<h3 align="center">a Idiot Korean Developer 😂</h3>
+<h3 align="center">An Idiot Korean Developer 😂</h3>
 
 - 🔭 Current Project : [Anti Tech](https://github.com/NewConnor/anti-tech)
 
