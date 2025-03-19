@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Connor</h1>
 <h3 align="center">An Idiot Korean Developer 😂</h3>
 
-- 🔭 Current Project : [Anti Tech](https://github.com/NewConnor/anti-tech)
+- 🔭 Current Project : [Anti Tech](https://github.com/NewConnor/Anti-Tech)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C#**
 
 - 📝 I regularly write articles on [https://connortalk.tistory.com/](https://connortalk.tistory.com/)
 
